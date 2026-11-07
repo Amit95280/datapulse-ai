@@ -1,0 +1,13 @@
+order_id,order_date,region,product,category,quantity,unit_price,customer
+1001,2026-01-03,North,Laptop,Electronics,2,65000,Aarav
+1002,2026-01-05,South,Phone,Electronics,3,22000,Diya
+1003,2026-01-12,West,Desk,Furniture,4,8500,Kabir
+1004,2026-02-02,North,Phone,Electronics,5,22000,Meera
+1005,2026-02-11,East,Chair,Furniture,8,4200,Arjun
+1006,2026-02-18,South,Laptop,Electronics,1,65000,Isha
+1007,2026-03-04,West,Monitor,Electronics,6,12000,Rohan
+1008,2026-03-19,East,Desk,Furniture,2,8500,Anaya
+1009,2026-03-22,North,Chair,Furniture,10,4200,Vihaan
+1010,2026-04-01,South,Monitor,Electronics,4,12000,Sara
+1011,2026-04-08,West,Phone,Electronics,2,22000,Dev
+1012,2026-04-20,East,Laptop,Electronics,1,65000,Tara
